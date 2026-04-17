@@ -89,13 +89,13 @@ The machine learning models significantly outperform traditional models in predi
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👤 Author
+## Author
 
 Sudhit Chand Rajwar
 Engineering Physics
